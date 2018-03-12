@@ -12,6 +12,9 @@
   },
   "author": "Leonardo Andrade dos Santos",
   "license": "ISC",
+  "dependencies" : {
+    "express" : "^4.13.3"
+  },
   "bugs": {
     "url": "https://github.com/leeoandradee/casa-do-codigo/issues"
   },
