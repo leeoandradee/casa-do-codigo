@@ -1,0 +1,19 @@
+{
+  "name": "casa-do-codigo",
+  "version": "1.0.0",
+  "description": "Projeto Alura Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeoandradee/casa-do-codigo.git"
+  },
+  "author": "Leonardo Andrade dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeoandradee/casa-do-codigo/issues"
+  },
+  "homepage": "https://github.com/leeoandradee/casa-do-codigo#readme"
+}
